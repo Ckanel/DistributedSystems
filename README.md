@@ -22,4 +22,4 @@ method if it encompasses an authentication header with a username and password t
 that is permitted to access that method. You may assume that the usernames and passwords that
 correspond to the “ADMIN” and “PHYSICIAN” roles are known a priori.
 
-#### This work was done in collaboration with [Antonis Niotis](https://github.com/Pet2Ant/) 
+#### This work was done in collaboration with [Antonis Niotis](https://github.com/Pet2Ant/), as we both worked on it concurrently. 
